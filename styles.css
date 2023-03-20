@@ -200,6 +200,18 @@ h3.title {
   transform: scale(95%);
   opacity: 0.5;
 }
+.project button {
+  background-color: #4caf50;
+  color: white;
+  padding: 12px 20px;
+  border: none;
+  width: 100%;
+  border-radius: 4px;
+  font-size: 12px;
+}
+.project button:hover {
+  background-color: #45a049;
+}
 .footer {
   position: fixed;
   left: 0;
