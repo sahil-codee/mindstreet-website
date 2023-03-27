@@ -283,7 +283,6 @@ input[type="submit"]:hover {
   text-align: center;
   padding: 24px;
 }
-
 /* Tablets */
 
 @media all and (max-width: 800px) {
